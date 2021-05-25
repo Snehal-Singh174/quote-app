@@ -1,7 +1,7 @@
-<h1 align="left">E-Learning App</h1>
+<h1 align="left">Random Quote App</h1>
 
 <div align= "left">
-  <h4>Random Quote App</h4>
+  <h4>This is a Random Quote App in which user can see the random quotes and can tweet it on their twitter account.</h4>
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
