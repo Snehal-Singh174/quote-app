@@ -6,8 +6,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Snehal-Singh174/quote-app/issues)
-[![Forks](https://img.shields.io/github/forks/Snehal-Singh174/CoDy_GiRlS.svg?logo=github)](https://github.com/Snehal-Singh174/quote-app/network/members)
-[![Stargazers](https://img.shields.io/github/stars/Snehal-Singh174/CoDy_GiRlS.svg?logo=github)](https://github.com/Snehal-Singh174/quote-app/stargazers)
+[![Forks](https://img.shields.io/github/forks/Snehal-Singh174/quote-app.svg?logo=github)](https://github.com/Snehal-Singh174/quote-app/network/members)
+[![Stargazers](https://img.shields.io/github/stars/Snehal-Singh174/quote-app.svg?logo=github)](https://github.com/Snehal-Singh174/quote-app/stargazers)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/snehal-singh-b5119817b/)
 
 ## :point_down: Support me here!
